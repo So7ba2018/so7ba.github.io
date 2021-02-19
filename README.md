@@ -1,2 +1,2 @@
-# So7ba.github.io
+# so7ba.github.io
 So7ba's website.
